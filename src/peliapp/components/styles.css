@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(226, 228, 125);
+}
+
+button {
+    float: right;
+    margin-top: -10px;
+}
